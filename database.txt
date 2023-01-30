@@ -1,0 +1,24 @@
+Drake,33,Rap,6
+Ski Mask,22,Rap,3
+Bruno Mars,35,RnB,4
+Playboi Carti,24,Rap,3
+Taylor Swift,31,Pop,10
+Big O,19,Rap,0
+Lil Nas X,20,Pop Rap,2
+Mitski,30,Indie,5
+Rihanna,33,RnB,6
+A$AP Rocky,32,Rap,4
+Travis Scott,28,Rap,3
+Queen Latifa,38,Hip Hop,6
+Carly Rae Jepson,29,Pop,5
+Hanna Montanah,28,Pop,5
+Lil Baby,24,Rap,5
+Gunna,19,Rap,6
+Young Thug,36,Pop,8
+SZA,25,Alternative jazz,6
+James Garfield,32,Country,4
+Skrillex,30,Dubstep,6
+Barney Stinson,32,James Jonah Jenkinson,4
+Jonah Hill,28,Baby metal,4
+Kanye West,38,Hip Hop,10
+Benzo,2,33,4
